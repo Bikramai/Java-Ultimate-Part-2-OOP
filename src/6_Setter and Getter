@@ -1,3 +1,0 @@
-Setter and Getter :-
-    To set and get the value of a field. In Java, we want to make our fields private,
-and instead we want to add getters and setters to work with them.
